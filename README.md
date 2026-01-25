@@ -350,28 +350,9 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 - 🛡️ **[SELKS](https://www.stamus-networks.com/open-source)** – Suricata-based IDS/IPS platform.
 - 🕵️‍♂️ **[PentestBox](https://pentestbox.org/)** – Penetration testing toolkit for Windows.
 
-## ❤️ Support Hacking-Tools
-
-Hacking-Tools is an open-source collection of **practical security scripts and tools** for:  
-- Web Application Security  
-- Bug Bounty & Pentesting  
-- Security Research & Learning  
-
-This project is actively maintained by **YogSec**, a cybersecurity initiative helping developers, startups, and security enthusiasts create safer applications.  
-
-### 🤝 Why Sponsor?
-
-Your support helps me to:  
-- 🚀 Develop **new security tools**  
-- 🛠 Maintain and **update existing scripts**  
-- 📚 Add **real-world vulnerability PoCs**  
-- 🌍 Keep the project **free and open-source**  
-
-Even a small contribution motivates me to continue building tools for the community!  
-
 ---
 
-### 💖 How to Support
+### 💖 Support
 
 You can support this project **directly** using **Buy Me a Coffee**:  
 
@@ -379,11 +360,4 @@ You can support this project **directly** using **Buy Me a Coffee**:
 
 > Every contribution, small or large, helps keep open-source cybersecurity alive. Thank you for supporting **Hacking-Tools**! 🛡️
 
----
 
-### 🔮 Future Sponsorship
-
-Once GitHub Sponsors becomes available in my region, this section will also feature:  
-- Official GitHub Sponsor button  
-- Sponsorship tiers (Bronze / Silver / Gold)  
-- Recognition in README for contributors
