@@ -349,6 +349,7 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 - 🧑‍💻 **[GnackTrack](https://sourceforge.net/projects/gnacktrack/)** – Linux live distribution for penetration testing.
 - 🛡️ **[SELKS](https://www.stamus-networks.com/open-source)** – Suricata-based IDS/IPS platform.
 - 🕵️‍♂️ **[PentestBox](https://pentestbox.org/)** – Penetration testing toolkit for Windows.
+- 🛡️ **[NullSec Linux](https://github.com/bad-antics/nullsec-linux)** – Security-focused Linux distribution for penetration testing and automotive security research.
 
 ---
 
