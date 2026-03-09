@@ -9,7 +9,7 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 
 <div align="center" style="margin: 30px 0;">
   
-  <a href="https://www.linkedin.com/in/privacy-checker/">
+  <a href="https://www.linkedin.com/in/api-security/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn">
   </a>
   <a href="https://linktr.ee/yogsec">
@@ -50,7 +50,7 @@ A curated list of penetration testing and ethical hacking tools, organized by ca
 
 ## ⭐ Featured Tool
 
-### 🐞 BugBoard – Bug Hunter's Dashboard
+### 🐞 BugBoard – Bug Hunter Dashboard
 
 BugBoard is an open-source dashboard built for bug bounty hunters and security researchers.  
 It helps automate vulnerability detection and organize testing workflows.
@@ -96,6 +96,7 @@ It helps automate vulnerability detection and organize testing workflows.
 - 🕸️ **[OWASP ZAP](https://www.zaproxy.org/)** – Open-source web application security scanner.
 - 🛜 **[Nmap Vulners](https://github.com/vulnersCom/nmap-vulners)** – Nmap NSE script for CVE detection.
 - 🔎 **[Retire.js](https://github.com/RetireJS/retire.js)** – JavaScript library vulnerability scanner.
+- 🚀 **[BugBoard](https://github.com/yogsec/BugBoard)** – Bug hunter dashboard for vulnerability scanning, automation, and managing bug bounty workflows.
 - ⚙️ **[Dependency-Check](https://github.com/jeremylong/DependencyCheck)** – Vulnerability analysis for project dependencies.
 - 🧑‍💻 **[Bandit](https://github.com/PyCQA/bandit)** – Security linter for Python code.
 - 🐞 **[Vuls](https://github.com/future-architect/vuls)** – Agentless vulnerability scanner for Linux/FreeBSD servers.
