@@ -104,6 +104,7 @@ The [Cybersecurity Certificate Program](https://online.lifelonglearning.jhu.edu/
 
 ## Exploitation Tools
 
+- 🌘 [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon) – Open-source (GPL-3.0) autonomous AI penetration testing platform and MCP host with per-technology offensive sub-agents, Active Directory and Kubernetes coverage, and 80+ orchestrated tools.
 - 🎯 [**Metasploit Framework**](https://github.com/rapid7/metasploit-framework) – Powerful exploit development and penetration testing framework.
 - 🚀 [**Armitage**](https://github.com/rsmudge/armitage) – GUI front-end for Metasploit to visualize attacks.
 - 🌐 [**BeEF (Browser Exploitation Framework)**](https://github.com/beefproject/beef) – Exploits browser vulnerabilities for client-side attacks.
