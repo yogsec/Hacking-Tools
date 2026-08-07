@@ -69,6 +69,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧪 **[Dnsrecon](https://github.com/darkoperator/dnsrecon)** – Perform DNS enumeration and zone transfers.
 - 📜 **[Fierce](https://github.com/mschwager/fierce)** – DNS reconnaissance and attack tool.
 - 📄 **[WHOIS](https://www.whois.com/)** – Domain registration and ownership lookup.
+- 🔎 **[CC.LA](https://cc.la)** – Free WHOIS/RDAP lookup, DNS records, name server history, IP WHOIS, SSL certificate search, and network diagnostics.
 - 📬 **[EmailHarvester](https://github.com/maldevel/EmailHarvester)** – Email enumeration and gathering.
 - 🕸️ **[Shodan](https://www.shodan.io/)** – Search engine for internet-connected devices.
 - 🔥 **[Censys](https://censys.io/)** – Search engine for hosts and networks on the internet.
