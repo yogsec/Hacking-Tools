@@ -76,6 +76,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 **[FOCA](https://github.com/ElevenPaths/FOCA)** – Metadata extraction and document analysis.
 - 🛡️ **[Netcraft](https://www.netcraft.com/)** – Website profiling and phishing detection.
 - 🏛️ **[BuiltWith](https://builtwith.com/)** – Website technology lookup and analysis.
+- 🌐 **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)** – Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 
 ## Vulnerability Analysis
@@ -147,7 +148,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📡 [**WLANPi**](https://github.com/wlanpi/wlanpi) – Wireless attack platform for pen-testers
 - 🛠️ [**Cowpatty**](https://github.com/wiire/cowpatty) – Tool for offline WPA2 cracking
 - 🌐 [**Scapy**](https://github.com/secdev/scapy) – Python tool for packet manipulation and analysis
-- 📶 [**NetStumbler**](http://www.netstumbler.com/) – Wi-Fi scanner for Windows
+- 📶 [**NetStumbler**](https://www.netstumbler.com/) – Wi-Fi scanner for Windows
 - 🔒 [**Wi-Fi Pineapple**](https://github.com/securestate/wifipineapple) – Wireless attack platform by Hak5
 
 ## Forensics Tools
