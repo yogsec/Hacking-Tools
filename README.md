@@ -271,6 +271,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌐 [**FFUF**](https://github.com/ffuf/ffuf) – Fast web fuzzer.
 - 🧑‍💻 [**WhatWeb**](https://github.com/urbanadventurer/WhatWeb) – Identify web technologies.
 - 🛠️ [**Nuclei**](https://github.com/projectdiscovery/nuclei) – Vulnerability scanning and templating.
+- 🤖 [**BugTraceAI**](https://github.com/BugTraceAI) – Open-source agentic security testing platform with multi-agent orchestration, validation, evidence, and reporting.
 - 🧑‍💻 [**XSStrike**](https://github.com/s0md3v/XSStrike) – XSS detection and exploitation.
 - 🐞 [**Commix**](https://github.com/commixproject/commix) – Automated command injection.
 - 🔥 [**WPScan**](https://github.com/wpscanteam/wpscan) – WordPress security scanner.
