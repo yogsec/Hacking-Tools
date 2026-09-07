@@ -351,7 +351,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Miscellaneous
 
-- 🧑‍💻 **[Geonix](https://geonix.com/?partner_link=Zktai4qaSI)** – IPv4/IPv6/ISP, and Mobile LTE proxies for security testing.
+- 🧑‍💻 **[Geonix](https://geonix.com/?partner_link=Zktai4qaSI)** – IPv4/IPv6/ISP, and Mobile LTE proxies for security testing. If you want to save money feel free to use this promo code at checkout: HTGR1.
 - 🐉 **[Kali Linux](https://www.kali.org/)** – Advanced penetration testing and security auditing OS.
 - 🦜 **[Parrot Security OS](https://www.parrotsec.org/)** – Security-focused OS for pentesting and privacy.
 - 🧑‍💻 **[BackBox](https://www.backbox.org/)** – Ubuntu-based Linux distro for penetration testing.
