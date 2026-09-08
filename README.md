@@ -68,7 +68,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Information Gathering
 
-- 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of DNS and network tools for domain research.
+- 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of Domain and IP Intelligence tools for domain research.
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
 - 📶 **[Kismet](https://www.kismetwireless.net/)** – Wireless network detector, sniffer, and intrusion detection.
 - 🕵️ **[Maltego](https://www.maltego.com/)** – OSINT and data mining tool for information analysis.
