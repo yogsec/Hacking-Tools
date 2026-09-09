@@ -283,6 +283,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🕵️ [**Waybackurls**](https://github.com/tomnomnom/waybackurls) – Fetch URLs from Wayback Machine.
 - 🧑‍💻 [**Unfurl**](https://github.com/tomnomnom/unfurl) – Extract URLs and data from URLs.
 - 📂 [**Dirsearch**](https://github.com/maurosoria/dirsearch) – A fast and powerful scanner that uses brute-force to find hidden directories and files on web servers. It discovers inaccessible content with customizable wordlists.
+- 🔍 [**HunterX**](https://github.com/nullc0d30/HunterX) – Web application and API vulnerability scanner with optional AI-assisted analysis by Ahmed Awad (NullC0d3).
 
 ## Reverse Engineering
 
