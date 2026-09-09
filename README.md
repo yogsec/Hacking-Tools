@@ -15,6 +15,8 @@
 
 [![StackScan](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/stackscan.webp?raw=true)](https://stackscan.com)
 [![WebVerse Pro](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/1787696512286(1).png?raw=true)](https://webverselabs-pro.com)
+[![SmartScanner](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/smartscanner(1).png?raw=true)](https://www.thesmartscanner.com/)
+
 
 
 
@@ -94,6 +96,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Vulnerability Analysis
 
+- 🧑‍💻 **[SmartScanner](https://www.thesmartscanner.com/)** – An AI-driven web vulnerability assessment tool designed to automate security scanning for websites, APIs, and web applications.
 - 🧪 **[OpenVAS](https://github.com/greenbone/openvas-scanner)** – Open-source vulnerability scanner.
 - 🛡️ **[Nessus](https://www.tenable.com/products/nessus)** – Commercial vulnerability assessment tool.
 - 🕵️‍♂️ **[Nikto](https://cirt.net/Nikto2)** – Web server scanner for detecting vulnerabilities.
