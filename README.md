@@ -88,6 +88,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 ## Information Gathering
 
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup and intelligence tool for checking IP geolocation, ISP, organization, ASN, hostname, IP reputation, VPN/proxy detection, Whois information, and network details.
+- 🔎 **[Osintly](https://osint.ly/?utm_source=github&utm_medium=referral&utm_campaign=hacking_tools)** – All-in-one OSINT platform combining hundreds of search modules, investigation tools, public data sources, intelligence APIs, and collaborative workspaces in a single place.
 - 🕵️ **[OSINT Search](https://osintsearch.org/)** - OSINTsearch is a live OSINT search engine. Find matching profiles, former usernames and traces of deleted accounts where sources return them.
 - 🌐 **[IPLocation.net](https://www.iplocation.net/)** - IP geolocation lookup service for finding the location, ISP, and other details associated with IP addresses.
 - 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of Domain and IP Intelligence tools for domain research.
