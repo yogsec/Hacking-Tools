@@ -91,6 +91,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔎 **[Osintly](https://osint.ly/?utm_source=github&utm_medium=referral&utm_campaign=hacking_tools)** – All-in-one OSINT platform combining hundreds of search modules, investigation tools, public data sources, intelligence APIs, and collaborative workspaces in a single place.
 - 🕵️ **[OSINT Search](https://osintsearch.org/)** - OSINTsearch is a live OSINT search engine. Find matching profiles, former usernames and traces of deleted accounts where sources return them.
 - 🌐 **[IPLocation.net](https://www.iplocation.net/)** - IP geolocation lookup service for finding the location, ISP, and other details associated with IP addresses.
+- 🛡️ **[WhiteIntel](https://whiteintel.io/)** - WhiteIntel is a dark web monitoring service that helps organizations monitor exposed data, credentials, and other potential threats across the dark web.
 - 🌍 **[ViewDNS.info](https://viewdns.info/)** – Comprehensive suite of Domain and IP Intelligence tools for domain research.
 - 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
