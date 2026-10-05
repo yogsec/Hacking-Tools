@@ -51,7 +51,7 @@
 - 📡 **[Wireshark](https://www.wireshark.org/)** – Network protocol analyzer for capturing and analyzing traffic.
 - 🌐 **[OWASP ZAP](https://www.zaproxy.org/)** – Web application security scanner and penetration testing proxy.
 - 🔎 **[Nessus](https://www.tenable.com/products/nessus)** – Vulnerability assessment and security scanning platform.
-- 💉 **[SQLmap](https://github.com/sqlmapproject/sqlmap)** – Automated SQL injection detection and exploitation tool.
+- 🌐 **[Impreza Host](https://impreza.host/)** – Privacy-focused hosting provider offering anonymous VPS and dedicated servers for security-conscious users and cybersecurity infrastructure.
 - 🩸 **[BloodHound](https://github.com/SpecterOps/BloodHound)** – Active Directory attack path and privilege relationship analysis tool.
 - ⚙️ **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** – Reverse engineering and binary analysis framework.
 
@@ -385,6 +385,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🧑‍💻 **[Geonix](https://geonix.com/?partner_link=Zktai4qaSI)** – IPv4/IPv6/ISP, and Mobile LTE proxies for security testing. If you want to save money feel free to use this promo code at checkout: HTGR1.
 - 🌐 **[PROXY-SOLUTIONS.net](https://proxy-solutions.net)** - A proxy server provider providing IP addresses for proxy servers, internet service providers, and mobile devices in over 200 locations. Promo code for a 5% discount: Y1xpdOA8Xr.
 - 🖥️ **[OnionLand Hosting](https://onionlandhosting.com)** - OnionLand Hosting is a cryptocurrency-available Tor hidden-service hosting provider.
+- 🌐 **[Impreza Host](https://impreza.host/)** – Privacy-focused hosting provider offering anonymous VPS and dedicated servers for running security tools, labs, and privacy-oriented infrastructure.
 - 🐉 **[Kali Linux](https://www.kali.org/)** – Advanced penetration testing and security auditing OS.
 - 🦜 **[Parrot Security OS](https://www.parrotsec.org/)** – Security-focused OS for pentesting and privacy.
 - 🧑‍💻 **[BackBox](https://www.backbox.org/)** – Ubuntu-based Linux distro for penetration testing.
