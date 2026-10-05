@@ -90,7 +90,6 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup and intelligence tool for checking IP geolocation, ISP, organization, ASN, hostname, IP reputation, VPN/proxy detection, Whois information, and network details.
 - 🔎 **[Osintly](https://osint.ly/?utm_source=github&utm_medium=referral&utm_campaign=hacking_tools)** – All-in-one OSINT platform combining hundreds of search modules, investigation tools, public data sources, intelligence APIs, and collaborative workspaces in a single place.
 - 🌐 **[OnionLand Search](https://onionland.live)** Onionland Search is a deep-web search engine that indexes Tor onion services.
-- 🖥️ **[OnionLand Hosting](https://onionlandhosting.com)** - OnionLand Hosting is a cryptocurrency-available Tor hidden-service hosting provider.
 - 🕵️ **[OSINT Search](https://osintsearch.org/)** - OSINTsearch is a live OSINT search engine. Find matching profiles, former usernames and traces of deleted accounts where sources return them.
 - 🌐 **[IPLocation.net](https://www.iplocation.net/)** - IP geolocation lookup service for finding the location, ISP, and other details associated with IP addresses.
 - 🛡️ **[WhiteIntel](https://whiteintel.io/)** - WhiteIntel is a dark web monitoring service that helps organizations monitor exposed data, credentials, and other potential threats across the dark web.
@@ -385,6 +384,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 - 🧑‍💻 **[Geonix](https://geonix.com/?partner_link=Zktai4qaSI)** – IPv4/IPv6/ISP, and Mobile LTE proxies for security testing. If you want to save money feel free to use this promo code at checkout: HTGR1.
 - 🌐 **[PROXY-SOLUTIONS.net](https://proxy-solutions.net)** - A proxy server provider providing IP addresses for proxy servers, internet service providers, and mobile devices in over 200 locations. Promo code for a 5% discount: Y1xpdOA8Xr.
+- 🖥️ **[OnionLand Hosting](https://onionlandhosting.com)** - OnionLand Hosting is a cryptocurrency-available Tor hidden-service hosting provider.
 - 🐉 **[Kali Linux](https://www.kali.org/)** – Advanced penetration testing and security auditing OS.
 - 🦜 **[Parrot Security OS](https://www.parrotsec.org/)** – Security-focused OS for pentesting and privacy.
 - 🧑‍💻 **[BackBox](https://www.backbox.org/)** – Ubuntu-based Linux distro for penetration testing.
