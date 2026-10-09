@@ -98,7 +98,9 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
 - 🕵️ **[OSINTNova](https://osintnova.com/)** – OSINTNova finds public information linked to usernames, emails, phone numbers, and more. It combines automated searches and AI-assisted reporting in one platform.
 - 🌐 **[Check-Host](https://check-host.net/)** - Network monitoring and diagnostic tool for checking host availability, connectivity, ping, HTTP, TCP, and DNS from multiple locations.
+- 📊 **[Dato Capital](https://datocapital.com/)** – Business intelligence platform providing company information, corporate data, and business insights.
 - 📶 **[Kismet](https://www.kismetwireless.net/)** – Wireless network detector, sniffer, and intrusion detection.
+- 🌐 **[urlcap](https://urlcap.com/?utm_source=chatgpt.com)** – HTTP capture and analysis API for inspecting requests and responses, extracting structured web data, and detecting bots and crawlers.
 - 🕵️ **[Maltego](https://www.maltego.com/)** – OSINT and data mining tool for information analysis.
 - 📨 **[theHarvester](https://github.com/laramies/theHarvester)** – Tool to gather emails, subdomains, hosts, and more.
 - 🔗 **[Recon-ng](https://github.com/lanmaster53/recon-ng)** – Full-featured web reconnaissance framework.
