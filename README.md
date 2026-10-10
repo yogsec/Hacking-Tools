@@ -385,7 +385,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ## Miscellaneous
 
-- 🖥️ [**HostMeNow**](https://hostmenow.org) – Hosting solutions for websites and online projects, helping individuals and businesses establish and manage their online presence.
+- 🖥️ [**HostMeNow**](https://hostmenow.org) – Anonymous offshore hosting: cPanel, VPS, dedicated servers, LTE proxies, and more. Pay with 100+ cryptocurrencies. Use code SAFE for one month of free cPanel hosting.
 - 🧑‍💻 **[Geonix](https://geonix.com/?partner_link=Zktai4qaSI)** – IPv4/IPv6/ISP, and Mobile LTE proxies for security testing. If you want to save money feel free to use this promo code at checkout: HTGR1.
 - 🌐 **[PROXY-SOLUTIONS.net](https://proxy-solutions.net)** - A proxy server provider providing IP addresses for proxy servers, internet service providers, and mobile devices in over 200 locations. Promo code for a 5% discount: Y1xpdOA8Xr.
 - 🖥️ **[OnionLand Hosting](https://onionlandhosting.com)** - OnionLand Hosting is a cryptocurrency-available Tor hidden-service hosting provider.
