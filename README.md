@@ -360,6 +360,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - ⚙️ **[Dependency-Check](https://github.com/jeremylong/DependencyCheck)** - Vulnerability analysis for project dependencies.
 - 🧑‍💻 **[Bandit](https://github.com/PyCQA/bandit)** - Security linter for Python code.
 - 🐞 **[Vuls](https://github.com/future-architect/vuls)** - Agentless vulnerability scanner for Linux/FreeBSD servers.
+- 🧑‍💻 **[Vulert](https://vulert.com)** - Detects vulnerabilities in open source dependencies without accessing code, with support for JavaScript, PHP, Java, Python, and more.
 - 📦 **[Trivy](https://github.com/aquasecurity/trivy)** - Vulnerability scanner for containers and dependencies.
 - 🧑‍💻 **[Grype](https://github.com/anchore/grype)** - Vulnerability scanner for container images and filesystems.
 - 🧑‍💻 **[Safety](https://github.com/pyupio/safety)** - Python dependency security scanner.
