@@ -229,6 +229,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🔗 **[Intelligence X](https://intelx.io/)** - Search engine for leaked credentials and exposed data across deep web, dark web, Pastebin, and GitHub, continuously crawling sources traditional search engines miss.
 - 📚 **[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)** - Curated list of threat intelligence resources, feeds, frameworks, and tools maintained by the community.
 - 🗂️ **[threat-intel (GitHub)](https://github.com/phutran1210dev/threat-intel)** - Real-time threat intelligence aggregation and visualization platform with IOC tracking, threat actor profiling, Elasticsearch/Kibana dashboards, and automated alert generation from MISP, OTX, VirusTotal, and Shodan.
+- 🌐 **[ICHI – Internet Cyber Health Index](https://ichi.global/)** - Free, source-transparent daily barometer of internet-wide cyber health. Aggregates 28+ live threat intel feeds (CISA KEV, EPSS, ransomware trackers, C2 infrastructure, DShield) into a composite hourly score for situational awareness. No signup required.
 
 ---
 
