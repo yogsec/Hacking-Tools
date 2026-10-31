@@ -86,8 +86,8 @@
 - 🛜 **[Nmap](https://nmap.org/)** - Network scanning, discovery, and security auditing tool.
 - 💳 **[VCCGenerator](https://www.vccgenerator.org/)** - A developer-focused toolkit for generating and validating test card data, and checking card number formats.
 - 🌐 **[IP-Lookup.org](https://www.ip-lookup.org/)** - IP lookup tool for finding geolocation, ISP, ASN, hostname, and other IP details.
-- ⚙️ [**Quttera Website Security API**](https://quttera.com/quttera-anti-malware-api-help) - API for malware detection, reputation checks, and website security analysis.
-- 📡 **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer for capturing and analyzing traffic.
+- ⚙️ **[Quttera Website Security API](https://quttera.com/quttera-anti-malware-api-help)** - API for malware detection, reputation checks, and website security analysis.
+- 🛡️ **[Securewp Online Scanner](https://securewp.net/security-checker)** - Online WordPress security scanner for vulnerability discovery, website profiling, malware and compromise detection, including exposed files, outdated software, and security misconfigurations without requiring installation.
 - 📧 **[Tuta Mail](https://tuta.com/)** - Privacy-focused, end-to-end encrypted email service for secure communication.
 - 🔎 **[Nessus](https://www.tenable.com/products/nessus)** - Vulnerability assessment and security scanning platform.
 - 🌐 **[Impreza Host](https://impreza.host/)** - Privacy-focused hosting provider offering anonymous VPS and dedicated servers for security-conscious users and cybersecurity infrastructure.
@@ -391,6 +391,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 ## Web Application Analysis
 
 - 🌐 [**WebSentry**](https://websentry.dev/) - Website security scanner for detecting misconfigurations, analyzing SSL/TLS, security headers, CSP, CORS, DNS, and vulnerable JavaScript libraries, with actionable security insights.
+- 🛡️ **[Securewp Online Scanner](https://securewp.net/security-checker)** - Online WordPress security scanner for vulnerability discovery, website profiling, malware and compromise detection, including exposed files, outdated software, and security misconfigurations without requiring installation.
 - 🧑‍💻 [**Burp Suite**](https://portswigger.net/burp) - Web security testing toolkit.
 - 🕵️ [**OWASP ZAP**](https://www.zaproxy.org/) - Open-source web application scanner.
 - 🐍 [**SQLmap**](https://github.com/sqlmapproject/sqlmap) - Automated SQL injection tool.
