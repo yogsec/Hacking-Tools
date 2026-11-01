@@ -199,6 +199,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌍 **[Recon-ng](https://github.com/lanmaster53/recon-ng)** - Full-featured web reconnaissance framework with a modular, Metasploit-like interface.
 - 🔭 **[Shodan](https://www.shodan.io/)** - Search engine for Internet-connected devices, exposing services, banners, and geolocation.
 - 🎭 **[Spoof Me](https://spoof-me.com/)** - Chrome/Firefox extension that switches the browser identity of a research profile (user agent, language, timezone, screen size) and flags pages that read fingerprinting signals.
+- 🕵️ [**Exposure-Check-OSINT**](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted OSINT exposure checker for emails, usernames, phone numbers, and passwords, aggregating breach databases, infostealer logs, and credential leaks from keyless sources with a one-command Docker install.
 
 ---
 
@@ -415,6 +416,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🕵️ [**Waybackurls**](https://github.com/tomnomnom/waybackurls) - Fetch URLs from Wayback Machine.
 - 🧑‍💻 [**Unfurl**](https://github.com/tomnomnom/unfurl) - Extract URLs and data from URLs.
 - 📂 [**Dirsearch**](https://github.com/maurosoria/dirsearch) - A fast and powerful scanner that uses brute-force to find hidden directories and files on web servers. It discovers inaccessible content with customizable wordlists.
+- 🌐 [**2MNY Website Vulnerability Scanner**](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Open-source, self-hosted web vulnerability scanner covering XSS, SQLi, SSRF, subdomain takeover, OWASP Top 10, WordPress, and AI/LLM exposure checks, with CVSS-scored evidence and HTML/PDF reports.
 
 ---
 
