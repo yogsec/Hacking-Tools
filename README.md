@@ -159,6 +159,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📜 **[Fierce](https://github.com/mschwager/fierce)** - DNS reconnaissance and attack tool.
 - 📄 **[WHOIS](https://www.whois.com/)** - Domain registration and ownership lookup.
 - 🔎 **[CC.LA](https://cc.la)** - Free WHOIS/RDAP lookup, DNS records, name server history, IP WHOIS, SSL certificate search, and network diagnostics.
+- ⏳ **[PendingDelete.net](https://pendingdelete.net)** - Free daily lists of domains in redemption and pending delete with registry-confirmed drop times, plus WHOIS/RDAP lookups.
 - 📬 **[EmailHarvester](https://github.com/maldevel/EmailHarvester)** - Email enumeration and gathering.
 - 🕸️ **[Shodan](https://www.shodan.io/)** - Search engine for internet-connected devices.
 - 🔍 **[Netlas](https://netlas.io/)** - Internet intelligence platform for discovering internet-connected assets, analyzing domains and IP addresses, and identifying exposed services.
