@@ -363,6 +363,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 ## Vulnerability Analysis
 
 - 🧑‍💻 **[SmartScanner](https://www.thesmartscanner.com/)** - An AI-driven web vulnerability assessment tool designed to automate security scanning for websites, APIs, and web applications.
+- 🛡️ **[VulnWatch](https://vulnwatch.tech/)** - A cybersecurity platform dedicated to tracking vulnerabilities, monitoring emerging security threats, and providing valuable insights to help security researchers and organizations stay ahead of potential risks.
 - 🧪 **[OpenVAS](https://github.com/greenbone/openvas-scanner)** - Open-source vulnerability scanner.
 - 🛡️ **[Nessus](https://www.tenable.com/products/nessus)** - Commercial vulnerability assessment tool.
 - 🕵️‍♂️ **[Nikto](https://cirt.net/Nikto2)** - Web server scanner for detecting vulnerabilities.
