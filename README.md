@@ -199,6 +199,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌍 **[Recon-ng](https://github.com/lanmaster53/recon-ng)** - Full-featured web reconnaissance framework with a modular, Metasploit-like interface.
 - 🔭 **[Shodan](https://www.shodan.io/)** - Search engine for Internet-connected devices, exposing services, banners, and geolocation.
 - 🎭 **[Spoof Me](https://spoof-me.com/)** - Chrome/Firefox extension that switches the browser identity of a research profile (user agent, language, timezone, screen size) and flags pages that read fingerprinting signals.
+- 🔎 **[Opsis](https://useopsis.com/)** - Searches an email address or username across 1,000+ sites and shows which accounts exist, with profile details and the source for each result.
 
 ---
 
