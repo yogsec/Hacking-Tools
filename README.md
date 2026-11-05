@@ -582,6 +582,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📦 [**PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings) - Collection of payloads for exploits, fuzzing, and pentesting.
 - 🧑‍💻 [**Fuzzbunch**](https://github.com/fuzzbunch/fuzzbunch) - NSA’s exploit framework (part of the Shadow Brokers leak).
 - 🛠️ [**CrackMapExec**](https://github.com/byt3bl33d3r/CrackMapExec) - Swiss army knife for post-exploitation in Windows environments.
+- 📄 [**Malicious PDF Generator**](https://github.com/jonaslejon/malicious-pdf) - Generates a set of PDF test files for probing SSRF, XSS, XXE, NTLM credential leaks and blind callbacks in PDF viewers, converters, upload endpoints and server-side PDF libraries. Pairs with Burp Collaborator or Interact.sh.
 
 ---
 
