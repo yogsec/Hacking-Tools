@@ -140,6 +140,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🌍 **[ViewDNS.info](https://viewdns.info/)** - Comprehensive suite of Domain and IP Intelligence tools for domain research.
 - 🌐 **[IP2Location.io](https://www.ip2location.io/)** - IP geolocation and IP intelligence API for retrieving location, network, and other information associated with IP addresses.
 - 🛜 **[Nmap](https://nmap.org/)** - Network scanning and mapping tool.
+- 🔎 **[1Lookup](https://www.1lookup.io/tools/reverse-phone-lookup)** - Free reverse phone and reverse email lookups, plus a number's carrier, line type and HLR status.
 - 🌐 **[ipapi.is](https://ipapi.is/)** - IP intelligence and geolocation service for identifying IP addresses, locations, ISPs, hosting providers, and VPN or proxy connections.
 - 🔎 **[ProxyDetect.live](https://proxydetect.live/)** - Proxy detection service for checking IP addresses and identifying potential proxies, VPNs, and other anonymization services.
 - 🕵️ **[OSINTNova](https://osintnova.com/)** - OSINTNova finds public information linked to usernames, emails, phone numbers, and more. It combines automated searches and AI-assisted reporting in one platform.
