@@ -18,6 +18,8 @@
 [![SmartScanner](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/smartscanner(1).png?raw=true)](https://www.thesmartscanner.com/)
 [![Osintly](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/osintly.png?raw=true)](https://osint.ly/?utm_source=github&utm_medium=referral&utm_campaign=hacking_tools)
 [![HostMeNow](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/hostmenow.png?raw=true)](https://hostmenow.org/backstage/aff.php?aff=168)
+[![Spiderfoot.tools](https://github.com/yogsec/Hacking-Tools/blob/main/Supporters/spiderfoot.png?raw=true)](https://spiderfoot.tools/)
+
 
 
 
@@ -151,7 +153,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 🕵️ **[Maltego](https://www.maltego.com/)** - OSINT and data mining tool for information analysis.
 - 📨 **[theHarvester](https://github.com/laramies/theHarvester)** - Tool to gather emails, subdomains, hosts, and more.
 - 🔗 **[Recon-ng](https://github.com/lanmaster53/recon-ng)** - Full-featured web reconnaissance framework.
-- 🕵️‍♂️ **[SpiderFoot](https://github.com/smicallef/spiderfoot)** - Automate OSINT collection from multiple sources.
+- 🕵️‍♂️ **[SpiderFoot](https://spiderfoot.tools/)** - Online OSINT service for gathering and analyzing publicly available information to discover domains, IP addresses, emails, and other digital footprints.
 - 🔍 **[Amass](https://github.com/OWASP/Amass)** - Network mapping and external asset discovery tool.
 - 🗂️ **[Sublist3r](https://github.com/aboul3la/Sublist3r)** - Subdomain enumeration using search engines.
 - 🧑‍💻 **[Assetfinder](https://github.com/tomnomnom/assetfinder)** - Subdomain discovery using various sources.
