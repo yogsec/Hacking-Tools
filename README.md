@@ -233,6 +233,7 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 - 📚 **[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)** - Curated list of threat intelligence resources, feeds, frameworks, and tools maintained by the community.
 - 🗂️ **[threat-intel (GitHub)](https://github.com/phutran1210dev/threat-intel)** - Real-time threat intelligence aggregation and visualization platform with IOC tracking, threat actor profiling, Elasticsearch/Kibana dashboards, and automated alert generation from MISP, OTX, VirusTotal, and Shodan.
 - 🌐 **[ICHI – Internet Cyber Health Index](https://ichi.global/)** - Free, source-transparent daily barometer of internet-wide cyber health. Aggregates 28+ live threat intel feeds (CISA KEV, EPSS, ransomware trackers, C2 infrastructure, DShield) into a composite hourly score for situational awareness. No signup required.
+- 🍯 **[Whatoblock](https://whatoblock.com/)** - Threat intelligence from a global honeypot network (229 sensors in 40 countries): look up which IPs are scanning the internet, the ports and services they target, and whether they are botnet, proxy or Tor exit hosts, with the captured payload for each record. Free tier covers the last 24 hours and 5 IP lookups a day.
 
 ---
 
