@@ -78,7 +78,10 @@
 - [🧰 Penetration Testing Distributions](#-penetration-testing-distributions)
 - [🛠️ Scripting & Automation](#️-scripting--automation)
 - [📝 Reporting Tools](#-reporting-tools)
-- [🧩 Miscellaneous](#-miscellaneous)
+- [🗂️ Miscellaneous](#-miscellaneous)
+- [📝 Cybersecurity Labs)
+- [🧩 Browser Extensions)
+
 
 ---
 
@@ -1431,6 +1434,11 @@ The [Cybersecurity Bootcamp](https://www.academy.evolvesecurity.com/cybersecurit
 
 ---
 
+## Browser Extensions
+
+**[OWASP Penetration Testing Kit (PTK)](https://github.com/DenisPodgurskii/pentestkit)**  An open-source browser extension for Chrome and Firefox that brings DAST, SAST, IAST and SCA into the browser. Testers can use it to scan authenticated applications, analyse client-side JavaScript, trace data flows at runtime and identify vulnerable dependencies.
+
+---
 
 ## Contact Details
 
